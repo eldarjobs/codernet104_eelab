@@ -7,7 +7,7 @@
            
 
             Console.WriteLine("enter the season");
-            string season = Console.ReadLine();
+            string season = Console.ReadLine().ToLower();
 
             string sea = season switch
             {
@@ -18,12 +18,13 @@
                 "spring" => "yaz",
 
                 "authum" => "payiz"
+                _ => "bele fesil yoxdur"
             };
         
             Console.WriteLine(sea);
 
 
-            string season2 = Console.ReadLine();
+            string season2 = Console.ReadLine().ToLower();
 
             switch (season2)
             {
