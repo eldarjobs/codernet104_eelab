@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\bin\Debug\net8.0\arraymethod.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\bin\Debug\net8.0\arraymethod.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\bin\Debug\net8.0\arraymethod.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\bin\Debug\net8.0\arraymethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\bin\Debug\net8.0\arraymethod.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\refint\arraymethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\arraymethod.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraymethod\obj\Debug\net8.0\ref\arraymethod.dll

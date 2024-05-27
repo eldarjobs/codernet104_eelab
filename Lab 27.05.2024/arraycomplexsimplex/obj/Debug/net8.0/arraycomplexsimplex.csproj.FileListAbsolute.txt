@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\bin\Debug\net8.0\arraycomplexsimplex.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\bin\Debug\net8.0\arraycomplexsimplex.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\bin\Debug\net8.0\arraycomplexsimplex.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\bin\Debug\net8.0\arraycomplexsimplex.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\bin\Debug\net8.0\arraycomplexsimplex.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\refint\arraycomplexsimplex.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\arraycomplexsimplex.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\arraycomplexsimplex\obj\Debug\net8.0\ref\arraycomplexsimplex.dll
