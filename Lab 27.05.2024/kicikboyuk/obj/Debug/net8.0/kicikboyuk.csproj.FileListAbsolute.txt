@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\bin\Debug\net8.0\kicikboyuk.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\bin\Debug\net8.0\kicikboyuk.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\bin\Debug\net8.0\kicikboyuk.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\bin\Debug\net8.0\kicikboyuk.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\bin\Debug\net8.0\kicikboyuk.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\refint\kicikboyuk.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\kicikboyuk.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\kicikboyuk\obj\Debug\net8.0\ref\kicikboyuk.dll

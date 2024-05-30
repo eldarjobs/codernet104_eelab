@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\bin\Debug\net8.0\digitsnumber.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\bin\Debug\net8.0\digitsnumber.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\bin\Debug\net8.0\digitsnumber.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\bin\Debug\net8.0\digitsnumber.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\bin\Debug\net8.0\digitsnumber.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\refint\digitsnumber.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\digitsnumber.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\digitsnumber\obj\Debug\net8.0\ref\digitsnumber.dll
