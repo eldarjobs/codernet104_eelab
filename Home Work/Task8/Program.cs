@@ -26,7 +26,7 @@ namespace Task8
 
           
            
-
+            fddsffdsfds
 
             Console.WriteLine("Please enter genarated code");
             var code = Convert.ToInt32(Console.ReadLine());

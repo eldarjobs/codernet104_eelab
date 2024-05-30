@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8996649c67b7e726b1e17273a4e6548dc65b30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa27118bf890b070693a27dd4a99357d693c728")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
