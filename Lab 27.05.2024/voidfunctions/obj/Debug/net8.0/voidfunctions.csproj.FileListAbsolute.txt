@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\bin\Debug\net8.0\voidfunctions.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\bin\Debug\net8.0\voidfunctions.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\bin\Debug\net8.0\voidfunctions.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\bin\Debug\net8.0\voidfunctions.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\bin\Debug\net8.0\voidfunctions.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\refint\voidfunctions.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\voidfunctions.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\voidfunctions\obj\Debug\net8.0\ref\voidfunctions.dll
