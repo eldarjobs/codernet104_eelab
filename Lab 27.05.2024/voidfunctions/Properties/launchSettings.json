@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "voidfunctions": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

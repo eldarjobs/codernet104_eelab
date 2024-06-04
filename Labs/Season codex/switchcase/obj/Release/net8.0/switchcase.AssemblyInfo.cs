@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("switchcase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07d95f7b1ae1ffc5627c0c4569b0637e308cd60f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976d67c3a2972ec60ee69eabbf460b673f8440fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("switchcase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("switchcase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\bin\Debug\net8.0\outref.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\bin\Debug\net8.0\outref.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\bin\Debug\net8.0\outref.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\bin\Debug\net8.0\outref.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\bin\Debug\net8.0\outref.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\refint\outref.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\outref.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\outref\obj\Debug\net8.0\ref\outref.dll
