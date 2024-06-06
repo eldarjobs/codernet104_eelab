@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("digitsnumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976d67c3a2972ec60ee69eabbf460b673f8440fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+551d6573a893fbd740fe51a069719080901cff3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("digitsnumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("digitsnumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

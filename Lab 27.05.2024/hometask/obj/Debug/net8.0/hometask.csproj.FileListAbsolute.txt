@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\bin\Debug\net8.0\hometask.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\bin\Debug\net8.0\hometask.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\bin\Debug\net8.0\hometask.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\bin\Debug\net8.0\hometask.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\bin\Debug\net8.0\hometask.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\refint\hometask.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\hometask.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\hometask\obj\Debug\net8.0\ref\hometask.dll

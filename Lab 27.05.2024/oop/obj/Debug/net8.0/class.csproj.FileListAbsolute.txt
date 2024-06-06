@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\bin\Debug\net8.0\class.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\bin\Debug\net8.0\class.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\bin\Debug\net8.0\class.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\bin\Debug\net8.0\class.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\bin\Debug\net8.0\class.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\refint\class.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\class.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\oop\obj\Debug\net8.0\ref\class.dll
