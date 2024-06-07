@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class", "class.csproj", "{BE0718AB-DB0F-4255-90E8-B51C1AF87E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class", "class.csproj", "{BE0718AB-DB0F-4255-90E8-B51C1AF87E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulation", "..\encapsulation\encapsulation.csproj", "{A2D6CB21-2C57-4943-BF18-1BFC7450D85F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulation", "..\encapsulation\encapsulation.csproj", "{A2D6CB21-2C57-4943-BF18-1BFC7450D85F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "..\ConsoleApp2\inheritance.csproj", "{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A2D6CB21-2C57-4943-BF18-1BFC7450D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D6CB21-2C57-4943-BF18-1BFC7450D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D6CB21-2C57-4943-BF18-1BFC7450D85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
