@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\bin\Debug\net8.0\extensionmethod.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\bin\Debug\net8.0\extensionmethod.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\bin\Debug\net8.0\extensionmethod.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\bin\Debug\net8.0\extensionmethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\bin\Debug\net8.0\extensionmethod.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\refint\extensionmethod.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\extensionmethod.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\extensionmethod\obj\Debug\net8.0\ref\extensionmethod.dll
