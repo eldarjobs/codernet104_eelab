@@ -17,8 +17,8 @@ namespace employee.Models
         public double Rate { get; set; }
         public HourlyEmployee()
         {
-            Id = _id;
             _id++;
+            Id = _id;
         }
 
         public double CalculateSalary()

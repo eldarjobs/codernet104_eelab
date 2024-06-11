@@ -24,14 +24,6 @@ namespace employee
             employee2.Salary = 1000;
 
 
-            SalariedEmployee employee3 = new SalariedEmployee();
-            Console.WriteLine("Soyadi daxilet");
-            employee2.Name = "Test";
-            employee2.Surname = "Test";
-            employee2.Age = 20;
-            employee2.Salary = 1000;
-
-
             Console.WriteLine("Employee Details: ");
             Console.WriteLine($"Salary monthly: {employee.CalculateSalary()}");
             employee.ShowDetails();

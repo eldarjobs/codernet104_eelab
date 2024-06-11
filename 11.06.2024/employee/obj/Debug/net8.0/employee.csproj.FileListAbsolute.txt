@@ -13,3 +13,18 @@ C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\employee\obj\Debug\ne
 C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\employee\obj\Debug\net8.0\employee.pdb
 C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\employee\obj\Debug\net8.0\employee.genruntimeconfig.cache
 C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\employee\obj\Debug\net8.0\ref\employee.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\bin\Debug\net8.0\employee.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\bin\Debug\net8.0\employee.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\bin\Debug\net8.0\employee.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\bin\Debug\net8.0\employee.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\bin\Debug\net8.0\employee.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\refint\employee.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\employee.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\11.06.2024\employee\obj\Debug\net8.0\ref\employee.dll

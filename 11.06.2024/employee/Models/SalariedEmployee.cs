@@ -17,15 +17,15 @@ namespace employee.Models
 
         public SalariedEmployee()
         {
-            Id = _id;
             _id++;
+            Id = _id;
         }
 
 
         public double CalculateSalary()
         {
             return this.Salary;
-            throw new NotImplementedException();
+            
         }
 
         public void ShowDetails()
