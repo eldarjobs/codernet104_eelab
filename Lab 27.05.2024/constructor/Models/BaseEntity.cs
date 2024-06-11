@@ -1,104 +1,134 @@
-﻿//using constructor.Models;
-//using Newtonsoft.Json;
-//using System.Net;
-//using System.Net.Sockets;
-//using static System.Net.WebRequestMethods;
+﻿namespace Constructor_.Models;
+using System.Net;
+using System.Net.Sockets;
 
-//namespace constructor.Models
-//{
-//    public static class Helper
-//    {
-//        public static string GetLocalAddress()
-//        {
+public static class Helper
+{
+    public static string GetComputerName() => Environment.MachineName;
 
-//            var host = Dns.GetHostEntry(Dns.GetHostName());
-//            foreach (var ip in host.AddressList)
-//            {
-//                if (ip.AddressFamily == AddressFamily.InterNetwork)
-//                {
-//                    return ip.ToString();
-//                }
-//            }
-//            throw new Exception("No network adapters with an IPv4 address in the system!");
-//        }
-//        public static string GetComputerName()
-//        {
-//            return Environment.MachineName;
-//        }
-//        public static async Task<string> GetIpAddress()
-//        {
-//            var ApiUrl = new Uri("https://api.ipify.org");
-
-//            string IpResonse = GetToAddress(url).Result.Ip;
-//            return IpResonse;
-//        }
-//        private static async Task<IpResponse> GetToAddress(string url)
-//        {
-//            using HttpResponseMessage response = await new Http.Client.GetAsync(url);
-
-//            response.EnsureSuccessStatusCode();
-
-//            string responseBody = await response.Content.ReadAsStringAsync();
-//            IpResponse ipresponse = JsonConvert.DeserializeObject<IpResponse>(responseBody);
-//            return ipresponse;
-//        }
-//    }
-
-//}
-//public class IpResponse
-//{
-//    public string? Ip { get; set; }
-
-//}
-//public class BaseEntity
-//{
-//    public BaseEntity()
-//    {
-//        this.CreatedDate = DateTime.Now;
-//        this.CreatedComputerName = Environment.MachineName;
-//        this.CreatedIp = Helper.GetIpAddress();
-//        this.CreatedLocalIp = Helper.GetLocalAddress();
-
-//    }
-
-//    public int Id { get; set; }
-//    public string CreatedLocalIp { get; set; }
-//    public string CreatedIp { get; set; }
-//    public string CreatedComputerName { get; set; }
-//    public DateTime CreatedDate { get; set; }
-
-//    public string GetToAddress { get; set; }
+    public static string GetLocalIp()
+    {
+        var host = Dns.GetHostEntry(Dns.GetHostName());
+        foreach (var ip in host.AddressList)
+        {
+            if (ip.AddressFamily == AddressFamily.InterNetwork)
+            {
+                return ip.ToString();
+            }
+        }
+        throw new Exception("No network adapters with an IPv4 address in the system!");
+    }
 
 
-//    public string? _updatedIp;
-//    public string? UpdatedIp
-//    {
-//        get => _updatedIp;
+    public static string GetIp()
+    {
+        var apiUrl = new Uri("http://ipinfo.io/ip");
 
-//        set
-//        {
-//            _updatedIp = value;
-//            if (value != null)
-//            {
-//                this.UpdatedDate = DateTime.Now;
+        string ipResonse = GetToAddress(apiUrl.ToString()).GetAwaiter().GetResult();
 
-//            }
-//        }
-//    }
-//    public DateTime? UpdatedDate { get; set; }
-//    public bool IsDeleted { get; set; }
-//}
+        return ipResonse;
+    }
 
-//public class Employee : BaseEntity
-//{
-//    public string Name { get; set; }
-//    public string Surname { get; set; }
-//    public string? Email { get; set; }
-//    public string? Phone { get; set; }
-//}
+    private static async Task<string> GetToAddress(string url)
+    {
+
+        using HttpResponseMessage response = await new HttpClient().GetAsync(url);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        return responseBody;
+    }
 
 
+}
 
+public class BaseEntity
+{
+    public BaseEntity(string currentUserFullName) : this()
+    {
+    }
+
+
+    public BaseEntity()
+    {
+        this.CreatedDate = DateTime.UtcNow;
+        this.CreatedComputerName = Helper.GetComputerName();
+        this.CreatedIp = Helper.GetIp();
+        this.CreatedLocalIp = Helper.GetLocalIp();
+    }
+
+    public int Id { get; set; }
+    public string CreatedLocalIp { get; set; } = null!;
+    public string CreatedIp { get; set; } = null!;
+    public string CreatedComputerName { get; set; } = null!;
+    public DateTime CreatedDate { get; set; }
+
+    private string? _updatedIp;  // nullable
+                                 //private Nullable<int> _updatedIp;  // nullable
+    public string? UpdatedIp
+    {
+        get => _updatedIp;
+        set
+        {
+            _updatedIp = value;
+            if (value != null)
+            {
+                this.UpdatedDate = DateTime.UtcNow;
+                #region Description
+                // bilgisayarın koordinatlı evrensel zamanını alır.
+                /*
+
+                    Saat dili bağımsızdır.
+                    Dayly light saving time (DST) uygulamaları ile ilgili sorunlar olabilir.
+                    Veri tabanı loglama işlemlerinde kullanılabilir. zaman damgası gerektiren işlemler için UTC kullanmak daha iyidir.
+                 */
+            }
+            #endregion
+        }
+    }
+
+    public DateTime? UpdatedDate { get; set; }
+    public bool IsDeleted { get; set; }
+}
+
+
+public class Employee : BaseEntity
+{
+    public Employee() : base("Current User") { }
+    public Employee(string firstName)
+    {
+        this.FirstName = firstName;
+    }
+
+    public Employee(string firstName, string lastName) : this(firstName)
+    {
+        //this.FirstName = firstName;
+        this.LastName = lastName;
+    }
+
+    public Employee(string firstName, string lastName, string email) : this(firstName, lastName)
+    {
+        //this.FirstName = firstName;
+        //this.LastName = lastName;
+        this.Email = email;
+    }
+
+    public Employee(string firstName, string lastName, string email, string phone) : this(firstName, lastName, email)
+    {
+        //this.FirstName = firstName;
+        //this.LastName = lastName;
+        //this.Email = email;
+        this.Phone = phone;
+    }
+
+
+
+    public string FirstName { get; set; } = null!; // required
+    public string LastName { get; set; } = null!;
+    public string? Email { get; set; }
+    public string? Phone { get; set; }
+}
+
+/*
 using Newtonsoft.Json;
 using System;
 using System.Net;
@@ -109,7 +139,7 @@ using System.Threading.Tasks;
 namespace constructor.Models
 {
     public static class Helper
-    {
+    { 
         public static string GetLocalAddress()
         {
             var host = Dns.GetHostEntry(Dns.GetHostName());
@@ -197,6 +227,6 @@ namespace constructor.Models
             // You can initialize additional properties here if needed
         }
     }
-}
+}*/
 
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\extensionmethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\extensionmethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2714BA4-2545-4153-9567-45777E3279CA}|extensionmethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\extensionmethod\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
@@ -43,12 +43,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\extensionmethod\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\extensionmethod\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\extensionmethod\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T04:49:13.549Z",

@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\bin\Debug\net8.0\genericExample.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\bin\Debug\net8.0\genericExample.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\bin\Debug\net8.0\genericExample.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\bin\Debug\net8.0\genericExample.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\bin\Debug\net8.0\genericExample.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\refint\genericExample.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\genericExample.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\genericExample\obj\Debug\net8.0\ref\genericExample.dll

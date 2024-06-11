@@ -1,22 +1,30 @@
-﻿using constructor.Models;
+﻿using Constructor_.Models;
 
-class Program
+namespace Constructor_;
+
+internal class Program
 {
-    static async Task Main(string[] args)
-    {    
-        var employee = new Employee
-        {
-            Id = 1,
-            Name = "John",
-            Surname = "Doe",
-            Email = "john.doe@example.com",
-            Phone = "123456789"
-        };
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
 
-      
-        await employee.InitializeCreatedIpAsync();
 
-        
-        employee.PrintDetails();
+        Employee employee = new Employee();
+
+        employee.FirstName = "Eldar";
+        employee.LastName = "Eyvazli";
+        employee.Email = "eldareyvazli@gmail.com";
+        employee.Phone= "123-456-7890";
+
+
+
+        Console.WriteLine(employee.FirstName);
+        Console.WriteLine(employee.LastName);
+        Console.WriteLine(employee.Email);
+        Console.WriteLine(employee.Phone);
+        Console.WriteLine(employee.CreatedIp);
+        Console.WriteLine(employee.UpdatedIp);
+        Console.WriteLine(employee.CreatedLocalIp);
+
     }
 }

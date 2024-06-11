@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulation", "..\encapsu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inheritance", "..\ConsoleApp2\inheritance.csproj", "{70BF2B5E-AB20-4C80-9BEF-A7EC2CAB8CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructor", "..\constructor\constructor.csproj", "{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "constructor", "..\constructor\constructor.csproj", "{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface", "..\interface\interface.csproj", "{4383BB6D-2358-4E8A-905A-02DAFB8517B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4383BB6D-2358-4E8A-905A-02DAFB8517B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4383BB6D-2358-4E8A-905A-02DAFB8517B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4383BB6D-2358-4E8A-905A-02DAFB8517B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4383BB6D-2358-4E8A-905A-02DAFB8517B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\oop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}|..\\constructor\\constructor.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4383BB6D-2358-4E8A-905A-02DAFB8517B6}|..\\interface\\interface.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F41E9261-6D37-4F00-BBE0-0B0CAEB2C853}|..\\constructor\\constructor.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\constructor\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4383BB6D-2358-4E8A-905A-02DAFB8517B6}|..\\interface\\interface.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\interface\\models\\ifudbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4383BB6D-2358-4E8A-905A-02DAFB8517B6}|..\\interface\\interface.csproj|c:\\users\\eldareey\\desktop\\codernet104_eelab\\lab 27.05.2024\\interface\\models\\defans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +19,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\interface\\Program.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Program.cs",
+              "RelativeToolTip": "..\\interface\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:22:20.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ifudbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Models\\Ifudbolcu.cs",
+              "RelativeDocumentMoniker": "..\\interface\\Models\\Ifudbolcu.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Models\\Ifudbolcu.cs",
+              "RelativeToolTip": "..\\interface\\Models\\Ifudbolcu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T05:22:37.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -28,28 +59,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\constructor\\Program.cs",
-              "RelativeDocumentMoniker": "..\\constructor\\Program.cs",
-              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\constructor\\Program.cs",
-              "RelativeToolTip": "..\\constructor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "DocumentIndex": 2,
+              "Title": "Defans.cs",
+              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Models\\Defans.cs",
+              "RelativeDocumentMoniker": "..\\interface\\Models\\Defans.cs",
+              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\interface\\Models\\Defans.cs",
+              "RelativeToolTip": "..\\interface\\Models\\Defans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T07:25:49.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\constructor\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "..\\constructor\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\eldareey\\Desktop\\codernet104_eelab\\Lab 27.05.2024\\constructor\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "..\\constructor\\Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T05:34:29.141Z",
+              "WhenOpened": "2024-06-11T06:38:05.171Z",
               "EditorCaption": ""
             }
           ]
