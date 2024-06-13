@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\bin\Debug\net8.0\Abstract.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\bin\Debug\net8.0\Abstract.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\bin\Debug\net8.0\Abstract.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\bin\Debug\net8.0\Abstract.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\bin\Debug\net8.0\Abstract.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\refint\Abstract.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\Abstract.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\abstract\obj\Debug\net8.0\ref\Abstract.dll

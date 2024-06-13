@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\bin\Debug\net8.0\ENUM.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\bin\Debug\net8.0\ENUM.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\bin\Debug\net8.0\ENUM.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\bin\Debug\net8.0\ENUM.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\bin\Debug\net8.0\ENUM.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\refint\ENUM.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ENUM.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\ENUM1\ENUM\obj\Debug\net8.0\ref\ENUM.dll

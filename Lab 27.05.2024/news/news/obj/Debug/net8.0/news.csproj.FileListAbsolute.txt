@@ -1,0 +1,15 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.AssemblyInfoInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.AssemblyInfo.cs
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.sourcelink.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\bin\Debug\net8.0\news.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\bin\Debug\net8.0\news.deps.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\bin\Debug\net8.0\news.runtimeconfig.json
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\bin\Debug\net8.0\news.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\bin\Debug\net8.0\news.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\refint\news.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\news.genruntimeconfig.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\news\news\obj\Debug\net8.0\ref\news.dll
