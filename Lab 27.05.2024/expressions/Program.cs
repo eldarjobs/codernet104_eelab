@@ -63,9 +63,11 @@ var filteredTexts = clear.Select(cleartext).ToList();
 filteredTexts.ForEach(text => Console.WriteLine(text));
 
 #endregion
+
 #region Fourth Example
 
 #endregion
+
 #region Fifth Example
 
 #endregion

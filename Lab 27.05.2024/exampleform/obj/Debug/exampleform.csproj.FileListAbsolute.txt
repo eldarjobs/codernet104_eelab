@@ -1,0 +1,14 @@
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\exampleform.exe.config
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\exampleform.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\exampleform.pdb
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\CircularProgressBar.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\WinFormAnimation.dll
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\bin\Debug\CircularProgressBar.xml
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.csproj.AssemblyReference.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.Form1.resources
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.Properties.Resources.resources
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.csproj.GenerateResource.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.csproj.CoreCompileInputs.cache
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\examplef.C704F725.Up2Date
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.exe
+C:\Users\eldareey\Desktop\codernet104_eelab\Lab 27.05.2024\exampleform\obj\Debug\exampleform.pdb
