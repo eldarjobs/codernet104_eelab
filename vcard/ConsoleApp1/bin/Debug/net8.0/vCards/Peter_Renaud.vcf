@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Peter Renaud
+EMAIL:peter.renaud@example.com
+TEL:079 356 86 48
+ADR:;;Oberweningen;;Switzerland
+END:VCARD

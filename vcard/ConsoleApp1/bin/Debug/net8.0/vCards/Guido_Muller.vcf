@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Guido Muller
+EMAIL:guido.muller@example.com
+TEL:076 393 78 12
+ADR:;;Eggersriet;;Switzerland
+END:VCARD

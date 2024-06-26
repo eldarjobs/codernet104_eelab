@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ruby Holmes
+EMAIL:ruby.holmes@example.com
+TEL:03-2330-7219
+ADR:;;Gladstone;;Australia
+END:VCARD

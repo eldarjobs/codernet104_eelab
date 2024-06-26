@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alice Arnold
+EMAIL:alice.arnold@example.com
+TEL:031-677-7651
+ADR:;;Tramore;;Ireland
+END:VCARD

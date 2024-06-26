@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Chris Dunn
+EMAIL:chris.dunn@example.com
+TEL:(234) 492-9861
+ADR:;;Altoona;;United States
+END:VCARD

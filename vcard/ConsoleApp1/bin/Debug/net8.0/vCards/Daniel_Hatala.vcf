@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Daniel Hatala
+EMAIL:daniel.hatala@example.com
+TEL:05-969-965
+ADR:;;Hausjrvi;;Finland
+END:VCARD

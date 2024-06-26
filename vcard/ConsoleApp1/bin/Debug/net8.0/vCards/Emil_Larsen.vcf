@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Emil Larsen
+EMAIL:emil.larsen@example.com
+TEL:26233446
+ADR:;;SundbyErslev;;Denmark
+END:VCARD

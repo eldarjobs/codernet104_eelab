@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Robinson
+EMAIL:john.robinson@example.com
+TEL:(306)-409-9158
+ADR:;;Greymouth;;New Zealand
+END:VCARD

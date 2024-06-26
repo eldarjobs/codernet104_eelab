@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John Calvo
+EMAIL:john.calvo@example.com
+TEL:989-837-790
+ADR:;;Oviedo;;Spain
+END:VCARD

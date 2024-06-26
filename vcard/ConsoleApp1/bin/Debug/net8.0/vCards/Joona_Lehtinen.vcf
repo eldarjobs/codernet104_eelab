@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Joona Lehtinen
+EMAIL:joona.lehtinen@example.com
+TEL:07-453-419
+ADR:;;Jms;;Finland
+END:VCARD

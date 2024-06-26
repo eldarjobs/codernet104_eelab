@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Joona Ahola
+EMAIL:joona.ahola@example.com
+TEL:07-721-937
+ADR:;;Karkkila;;Finland
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Otto Lampinen
+EMAIL:otto.lampinen@example.com
+TEL:09-333-831
+ADR:;;Nummi;;Finland
+END:VCARD

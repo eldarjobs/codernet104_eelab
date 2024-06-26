@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marius Johansen
+EMAIL:marius.johansen@example.com
+TEL:30030848
+ADR:;;Nimtofte;;Denmark
+END:VCARD

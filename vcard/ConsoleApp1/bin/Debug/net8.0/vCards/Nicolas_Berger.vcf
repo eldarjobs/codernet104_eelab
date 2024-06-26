@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nicolas Berger
+EMAIL:nicolas.berger@example.com
+TEL:01-71-64-53-62
+ADR:;;Angers;;France
+END:VCARD

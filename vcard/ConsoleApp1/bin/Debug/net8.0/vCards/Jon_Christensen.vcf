@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jon Christensen
+EMAIL:jon.christensen@example.com
+TEL:65854447
+ADR:;;Lysthaugen;;Norway
+END:VCARD

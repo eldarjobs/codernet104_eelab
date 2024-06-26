@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Magnus Hansen
+EMAIL:magnus.hansen@example.com
+TEL:93065865
+ADR:;;Aaborg st;;Denmark
+END:VCARD

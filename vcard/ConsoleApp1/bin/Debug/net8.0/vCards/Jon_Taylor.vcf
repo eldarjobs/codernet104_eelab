@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jon Taylor
+EMAIL:jon.taylor@example.com
+TEL:011-613-0402
+ADR:;;Kilkenny;;Ireland
+END:VCARD

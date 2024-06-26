@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Guillermo Diez
+EMAIL:guillermo.diez@example.com
+TEL:956-711-478
+ADR:;;Albacete;;Spain
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Joona Perala
+EMAIL:joona.perala@example.com
+TEL:08-628-105
+ADR:;;Rusko;;Finland
+END:VCARD

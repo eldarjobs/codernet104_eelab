@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Neil Fowler
+EMAIL:neil.fowler@example.com
+TEL:01285 05455
+ADR:;;Edinburgh;;United Kingdom
+END:VCARD

@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Terje Siland
+EMAIL:terje.soiland@example.com
+TEL:89728978
+ADR:;;Vigeland;;Norway
+END:VCARD

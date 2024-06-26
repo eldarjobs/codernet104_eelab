@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Otto Tuominen
+EMAIL:otto.tuominen@example.com
+TEL:07-266-457
+ADR:;;Jomala;;Finland
+END:VCARD

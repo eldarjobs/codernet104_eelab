@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Leonard Weberg
+EMAIL:leonard.weberg@example.com
+TEL:77065533
+ADR:;;Kongsberg;;Norway
+END:VCARD

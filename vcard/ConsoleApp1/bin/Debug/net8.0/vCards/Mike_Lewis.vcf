@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Lewis
+EMAIL:mike.lewis@example.com
+TEL:(288) 289-1120
+ADR:;;Everett;;United States
+END:VCARD

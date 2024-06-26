@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Fernando Perez
+EMAIL:fernando.perez@example.com
+TEL:075 824 54 66
+ADR:;;Brienz Be;;Switzerland
+END:VCARD

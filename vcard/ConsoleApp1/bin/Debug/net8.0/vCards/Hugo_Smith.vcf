@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hugo Smith
+EMAIL:hugo.smith@example.com
+TEL:(465)-516-2192
+ADR:;;New Plymouth;;New Zealand
+END:VCARD

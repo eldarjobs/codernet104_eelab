@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|c:\\users\\eldareyvazli\\desktop\\vcard\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|c:\\users\\eldareyvazli\\desktop\\vcard\\consoleapp1\\httpclient\\httpclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|solutionrelative:httpclient\\httpclientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|c:\\users\\eldareyvazli\\desktop\\vcard\\consoleapp1\\models\\vcardutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|solutionrelative:models\\vcardutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|c:\\users\\eldareyvazli\\desktop\\vcard\\consoleapp1\\vcard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|solutionrelative:vcard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|c:\\users\\eldareyvazli\\desktop\\vcard\\consoleapp1\\models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3163513-B2ED-44BF-A1B2-FFCAF34CCF12}|Vcard.csproj|solutionrelative:models\\vcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vcard",
+              "DocumentMoniker": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Vcard.csproj",
+              "RelativeDocumentMoniker": "Vcard.csproj",
+              "ToolTip": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Vcard.csproj",
+              "RelativeToolTip": "Vcard.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T12:41:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VcardUtils.cs",
+              "DocumentMoniker": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Models\\VcardUtils.cs",
+              "RelativeDocumentMoniker": "Models\\VcardUtils.cs",
+              "ToolTip": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Models\\VcardUtils.cs",
+              "RelativeToolTip": "Models\\VcardUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:33:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vcard.cs",
+              "DocumentMoniker": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Models\\Vcard.cs",
+              "RelativeDocumentMoniker": "Models\\Vcard.cs",
+              "ToolTip": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Models\\Vcard.cs",
+              "RelativeToolTip": "Models\\Vcard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:51:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Httpclientrequest.cs",
+              "DocumentMoniker": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\HttpClient\\Httpclientrequest.cs",
+              "RelativeDocumentMoniker": "HttpClient\\Httpclientrequest.cs",
+              "ToolTip": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\HttpClient\\Httpclientrequest.cs",
+              "RelativeToolTip": "HttpClient\\Httpclientrequest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:47:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:46:45.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

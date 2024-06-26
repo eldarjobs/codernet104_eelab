@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Adam Andersen
+EMAIL:adam.andersen@example.com
+TEL:75356248
+ADR:;;Aarhus;;Denmark
+END:VCARD
