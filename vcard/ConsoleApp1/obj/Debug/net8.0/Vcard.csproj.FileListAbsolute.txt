@@ -16,3 +16,22 @@ C:\Users\EldarEyvazli\Desktop\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.csproj.As
 C:\Users\EldarEyvazli\Desktop\vcard\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\EldarEyvazli\Desktop\vcard\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\EldarEyvazli\Desktop\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.csproj.Up2Date
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Vcard.exe
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Vcard.deps.json
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Vcard.runtimeconfig.json
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Vcard.dll
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Vcard.pdb
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.csproj.AssemblyReference.cache
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.AssemblyInfoInputs.cache
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.AssemblyInfo.cs
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.csproj.CoreCompileInputs.cache
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.sourcelink.json
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.csproj.Up2Date
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.dll
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\refint\Vcard.dll
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.pdb
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\Vcard.genruntimeconfig.cache
+C:\Users\EldarEyvazli\Desktop\New folder (2)\codernet104_eelab\vcard\ConsoleApp1\obj\Debug\net8.0\ref\Vcard.dll

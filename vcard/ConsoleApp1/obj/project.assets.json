@@ -98,11 +98,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Vcard.csproj",
+      "projectUniqueName": "C:\\Users\\EldarEyvazli\\Desktop\\New folder (2)\\codernet104_eelab\\vcard\\ConsoleApp1\\Vcard.csproj",
       "projectName": "Vcard",
-      "projectPath": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\Vcard.csproj",
+      "projectPath": "C:\\Users\\EldarEyvazli\\Desktop\\New folder (2)\\codernet104_eelab\\vcard\\ConsoleApp1\\Vcard.csproj",
       "packagesPath": "C:\\Users\\EldarEyvazli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EldarEyvazli\\Desktop\\vcard\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\EldarEyvazli\\Desktop\\New folder (2)\\codernet104_eelab\\vcard\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EldarEyvazli\\AppData\\Roaming\\NuGet\\NuGet.Config",
